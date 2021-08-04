@@ -1,0 +1,8 @@
+1)created sinfo package
+2)sinfo contains the Student class
+3)Student class is use in the ImportPackage.java programe
+4)sinfo package created using Student.java program
+5)Student.java contains the classes which are in sinfo package
+6)Run.java is used to create the package studentobj.
+7)studentobj package cotains the Run class.
+8)sinfo is imported in the Run.java.

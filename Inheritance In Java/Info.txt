@@ -1,0 +1,5 @@
+1)Staff class is created in the Staff.java
+2)Student class is created in the Student.java.
+3)Student class is inherited from the Staff class.
+4)Object of Student is created in Run.java.
+5)
